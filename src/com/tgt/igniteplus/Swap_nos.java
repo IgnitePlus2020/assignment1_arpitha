@@ -1,7 +1,5 @@
 package com.tgt.igniteplus;
-
-<<<<<<< HEAD
-public class Main {
+public class Swap_nos {
 
     public static void main(String[] args) {
         // write your code here
