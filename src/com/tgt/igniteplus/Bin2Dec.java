@@ -1,3 +1,4 @@
+/*Assignment Q20: A program to convert binary to decimal.*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;
@@ -20,5 +21,6 @@ public class Bin2Dec {
             }
         }
         System.out.println(deci);
+        in.close();
     }
 }

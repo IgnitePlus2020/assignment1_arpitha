@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class NumberReverse {
     public static void main(String[] args){
         Scanner in=new Scanner(System.in);
+        System.out.println("Enter the number to be reversed:");
         int n=in.nextInt();
         int rev = 0,digit;
         while(n != 0)
