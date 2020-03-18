@@ -1,5 +1,8 @@
+/*Assignment Q5:A program to Check if the given number is odd or even.*/
 package com.tgt.igniteplus;
+
 import java.util.Scanner;
+
 public class Odd_even {
     public static void main(String[] srgs){
         Scanner in=new Scanner(System.in);

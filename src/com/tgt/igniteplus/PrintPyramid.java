@@ -1,3 +1,4 @@
+/*Assignment Q1 and Q2 :Java program to print the pyramids.*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;

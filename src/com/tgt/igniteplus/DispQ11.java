@@ -1,3 +1,5 @@
+/*Assignment Q11:A program to display the number in following sequence.
+4, 16, 36, 64.......N*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;
@@ -15,5 +17,6 @@ public class DispQ11 {
                 break;
             j++;
         }
+        in.close();
     }
 }

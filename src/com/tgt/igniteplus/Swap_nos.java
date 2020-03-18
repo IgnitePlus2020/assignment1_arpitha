@@ -1,10 +1,17 @@
+/*Assignment Q4:A program to swap 2 numbers and to swap 3 numbers.*/
 package com.tgt.igniteplus;
+
+import java.util.Scanner;
+
 public class Swap_nos {
 
     public static void main(String[] args) {
         // write your code here
+        Scanner in=new Scanner(System.in);
         //swap two numbers
-        int a = 3, b = 4, c = 5;
+        System.out.println("enter values for a,b");
+        int a =in.nextInt();
+        int b=in.nextInt();
         System.out.println("Swapping of two nos:");
         System.out.println("the numbers are:");
         System.out.println("a=" + a + " b=" + b);
@@ -17,6 +24,10 @@ public class Swap_nos {
         System.out.println();
         //swapping of three numbers
         System.out.println("Swapping of three nos:");
+        System.out.println("enter values of a,b,c");
+        a=in.nextInt();
+        b=in.nextInt();
+        int c=in.nextInt();
         System.out.println("the numbers are:");
         System.out.println("a=" + a + " b=" + b + " c=" + c);
         temp = a;
@@ -26,5 +37,6 @@ public class Swap_nos {
         c = temp;
         System.out.println("after swapping:");
         System.out.println("a=" + a + " b=" + b + " c=" + c);
+        in.close();
     }
 }

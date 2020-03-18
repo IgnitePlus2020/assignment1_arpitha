@@ -1,3 +1,6 @@
+/*Assignment Q8:A program to calculate the sum of
+(a) Odd numbers from 1- N.
+(b) Even numbers from 0 – N.*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;

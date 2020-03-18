@@ -1,3 +1,5 @@
+/*Assignment Q12:A program to display the number in following sequence.
+-1, 2, -3, 4, -5........N*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;
@@ -13,5 +15,6 @@ public class DispQ12 {
             else
                 System.out.print(-i+" ");
         }
+        in.close();
     }
 }

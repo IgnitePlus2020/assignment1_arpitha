@@ -1,3 +1,5 @@
+/*Assignment Q15: A program to display the number in following sequence.
+1, 4, 9, 25, 36, 49 ..................N*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;
@@ -12,7 +14,7 @@ public class DispQ15 {
             System.out.print(ans+" ");
             i++;
             ans=(int)Math.pow(i,2);
-
         }
+        in.close();
     }
 }

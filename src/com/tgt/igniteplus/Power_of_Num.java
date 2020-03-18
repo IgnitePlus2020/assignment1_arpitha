@@ -1,3 +1,4 @@
+/*Assignment Q24:A program to find the X to the power of n. (Without using inbuilt function)*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;
@@ -15,5 +16,6 @@ public class Power_of_Num {
             --n;
         }
         System.out.println(result);
+        in.close();
     }
 }

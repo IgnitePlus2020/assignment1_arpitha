@@ -1,3 +1,5 @@
+/*Assignment Q13:A program to display the number in following sequence.
+1, 4, 27, 256, 3125 .............. N*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;
@@ -12,7 +14,7 @@ public class DispQ13 {
             System.out.print(ans+" ");
             i++;
             ans=(int)Math.pow(i,i);
-
+        in.close();
         }
     }
 }

@@ -1,3 +1,4 @@
+/*Assignment Q17:A program to find the prime numbers between n and m.*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;

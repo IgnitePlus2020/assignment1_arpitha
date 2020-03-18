@@ -1,3 +1,4 @@
+/*Assignment Q18:A program to find the factorial of a given number.*/
 package com.tgt.igniteplus;
 
 import java.util.Scanner;

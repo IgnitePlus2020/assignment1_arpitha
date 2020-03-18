@@ -1,8 +1,13 @@
+/*Assignment Q9:A program to reverse the number.*/
 package com.tgt.igniteplus;
+
+import java.util.Scanner;
 
 public class NumberReverse {
     public static void main(String[] args){
-        int n=123456789,rev = 0,digit;
+        Scanner in=new Scanner(System.in);
+        int n=in.nextInt();
+        int rev = 0,digit;
         while(n != 0)
         {
             digit = n % 10;
@@ -10,5 +15,6 @@ public class NumberReverse {
             n = n / 10;
         }
         System.out.println("reversed number is: "+rev);
+        in.close();
     }
 }
