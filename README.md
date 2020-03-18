@@ -1,2 +1,2 @@
 # assignment1_arpitha
-contains assignment 1 answers 
+Assignment1 ques5:to check if a number is even or odd
