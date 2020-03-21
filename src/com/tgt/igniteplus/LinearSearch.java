@@ -1,3 +1,5 @@
+//Assignment Q28:A program to find if a number exists in an array or not using linear search.
+
 package com.tgt.igniteplus;
 
 import java.util.Scanner;
