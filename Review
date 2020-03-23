@@ -1,0 +1,19 @@
+The following programs is not satisfying the problem statement.
+
+You should print the values 1,5,13,29,49,77.......N depends on the range given by the user.
+
+Suppose if user enters 5, the result should be 1,5,13,29,49.
+
+https://github.com/IgnitePlus2020/assignment1_arpitha/blob/master/src/com/tgt/igniteplus/Disp16.java
+
+The following one should print  4,16,36, 64 if the range given is 4.
+
+https://github.com/IgnitePlus2020/assignment1_arpitha/blob/master/src/com/tgt/igniteplus/DispQ11.java
+
+Result should be based on the range.
+
+https://github.com/IgnitePlus2020/assignment1_arpitha/blob/master/src/com/tgt/igniteplus/DispQ13.java
+
+https://github.com/IgnitePlus2020/assignment1_arpitha/blob/master/src/com/tgt/igniteplus/DispQ15.java
+
+Apply best coding practices like informative println statements, comments etc.,
